@@ -1,0 +1,1 @@
+# react-native-in-app-review-3.2.2
